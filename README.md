@@ -1,14 +1,1 @@
-
-## Folder contents:
-
-This folder contains the function.Rmd file for Assignments B1 and a total of 3 files.
-
-```
-1. A readme file
-2. a rmd file named assignment_b1.rmd
-3. A md file named assignment_b1.md
-```
-
-## How to use this folder?
-
-This contains the files and requirements for Assignment B1 of Stat545-b.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/s4oIzs8K)
