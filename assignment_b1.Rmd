@@ -25,14 +25,14 @@ suppressPackageStartupMessages(library(palmerpenguins)) # for testing a sample t
 #'
 #' This function converts measurements from millimeters (mm) to inches: 1 inch = 25.4 mm.
 #' It is designed to ignore non-numeric inputs.
-#' It will accept a numeric vector as input and return vecotr of converted values
+#' It will accept a numeric vector as input and return vector of converted values
 #' 
 #' 
-#' @param mm A numeric vector, measurements are in milimeters, hence the name mm. Non-numeric values will result in an error.
-#' @return A numeric vector,it will convert mm to inches. If input values are NA it will return "NA"
+#' @param mm A numeric vector, measurements are in millimeters, hence the name mm. Non-numeric values will result in an error.
+#' @return A numeric vector, it will convert mm to inches. If input values are NA it will return "NA"
 #' @export
 #'
-#' @examples Showing some example for usage of single value, vectors and NA 
+#' @examples Showing some example for usage of single value, vectors, and NA 
 #' mm_to_in(25.4) # Should return 1
 #' mm_to_in(c(25.4, 127)) # Should return 1 and 5
 #' mm_to_in(NA) # Should return NA
