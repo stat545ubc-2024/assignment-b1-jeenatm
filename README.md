@@ -12,6 +12,6 @@ This folder contains a total of 3 files.
 3. A md file named assignment_b1.md
 ```
 
-##How to use this folder?
+## How to use this folder?
 
 This contains the files and requirements for Assignment B1 of Stat545-b.
